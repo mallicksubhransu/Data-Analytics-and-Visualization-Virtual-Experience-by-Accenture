@@ -74,7 +74,7 @@ As part of the internship, the data analytics team has been tasked with the foll
 
 ## Contact
 For any questions or inquiries, please contact:
-- [Your Name](mailto:your-email@example.com)
+- [Subhransu Sekhar Mallick](mailto:mallicksubhransu@gmail.com)
 
 ---
 
