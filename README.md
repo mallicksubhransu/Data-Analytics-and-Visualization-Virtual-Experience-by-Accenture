@@ -1,5 +1,4 @@
 # Data Analytics and Visualization Virtual Experience by Accenture
- # Social Buzz Internship Project - README
 
 ## Overview
 Social Buzz has experienced exponential growth over the past five years, now boasting 500 million active users each month. To effectively manage and scale this growth, Social Buzz has enlisted Accenture for a three-month project focusing on key strategic and operational tasks.
